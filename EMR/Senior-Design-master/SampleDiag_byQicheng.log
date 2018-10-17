@@ -1,0 +1,15 @@
+P: Patient
+D: Doctor
+D: Hi, how’s going?
+P: Hi doctor, I got headache recently. And yesterday, I had a fever. Additionally, I was also stomach ache today morning.
+D: Okay, so do you have any medical history ?
+P: Emmmm… let me see see. I had asthma. Ohhhhh, I also had hepatitis.
+D: That’s sounds terrible. So do you know your allergic history?
+P: Yes, I have a lot. I am allergy to penicillins and aspirins.
+D: Ok, Let me see your eyes. Oh, your eyes are very red. Then open your mouth and show me your tongue. Oh, It is very yellow. 
+D: Are you coughing recently?
+P: No.
+D: Do you have diarrhea today?
+P: Yes.
+D: My advice is that firstly you need take more rest. And then, you need take some candies. You also need take penicillin for two weeks.
+P: Ok, Thank you doctor.
